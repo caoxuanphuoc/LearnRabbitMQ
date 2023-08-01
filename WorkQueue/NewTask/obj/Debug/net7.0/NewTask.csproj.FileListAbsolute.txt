@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\NewTask.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\NewTask.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\NewTask.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\NewTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\bin\Debug\net7.0\NewTask.exe
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\bin\Debug\net7.0\NewTask.deps.json
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\bin\Debug\net7.0\NewTask.runtimeconfig.json
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\bin\Debug\net7.0\NewTask.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\bin\Debug\net7.0\NewTask.pdb
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\NewTask.csproj.CopyComplete
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\NewTask.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\refint\NewTask.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\NewTask.pdb
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\NewTask.genruntimeconfig.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\WorkQueue\NewTask\obj\Debug\net7.0\ref\NewTask.dll
