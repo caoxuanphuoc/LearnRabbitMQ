@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\bin\Debug\net7.0\ReceiveLogsTopic.exe
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\bin\Debug\net7.0\ReceiveLogsTopic.deps.json
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\bin\Debug\net7.0\ReceiveLogsTopic.runtimeconfig.json
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\bin\Debug\net7.0\ReceiveLogsTopic.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\bin\Debug\net7.0\ReceiveLogsTopic.pdb
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.csproj.CopyComplete
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\refint\ReceiveLogsTopic.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.pdb
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.genruntimeconfig.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\ReceiveLogsTopic\obj\Debug\net7.0\ref\ReceiveLogsTopic.dll

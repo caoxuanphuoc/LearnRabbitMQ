@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\bin\Debug\net7.0\EmitLogTopic.exe
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\bin\Debug\net7.0\EmitLogTopic.deps.json
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\bin\Debug\net7.0\EmitLogTopic.runtimeconfig.json
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\bin\Debug\net7.0\EmitLogTopic.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\bin\Debug\net7.0\EmitLogTopic.pdb
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\EmitLogTopic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\EmitLogTopic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\EmitLogTopic.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\EmitLogTopic.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\EmitLogTopic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\EmitLogTopic.csproj.CopyComplete
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\EmitLogTopic.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\refint\EmitLogTopic.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\EmitLogTopic.pdb
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\EmitLogTopic.genruntimeconfig.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\TopicExchange\EmitLogTopic\obj\Debug\net7.0\ref\EmitLogTopic.dll
