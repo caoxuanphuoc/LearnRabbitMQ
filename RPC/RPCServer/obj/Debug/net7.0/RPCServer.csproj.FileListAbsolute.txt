@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\bin\Debug\net7.0\RPCServer.exe
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\bin\Debug\net7.0\RPCServer.deps.json
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\bin\Debug\net7.0\RPCServer.runtimeconfig.json
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\bin\Debug\net7.0\RPCServer.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\bin\Debug\net7.0\RPCServer.pdb
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\RPCServer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\RPCServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\RPCServer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\RPCServer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\RPCServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\RPCServer.csproj.CopyComplete
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\RPCServer.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\refint\RPCServer.dll
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\RPCServer.pdb
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\RPCServer.genruntimeconfig.cache
+C:\Users\Admin\Desktop\LearnRabbitMQ\RPC\RPCServer\obj\Debug\net7.0\ref\RPCServer.dll
